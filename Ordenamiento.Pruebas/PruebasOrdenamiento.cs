@@ -29,7 +29,7 @@ namespace Ordenamiento.Pruebas
         }
 
         [TestMethod]
-        public void TestChueco()
+        public void TestTres()
         {
             int[] entrada = new int[] { 1, 3, 2, 4, 5 };
             ordenar.Ordenar(entrada);
@@ -37,7 +37,7 @@ namespace Ordenamiento.Pruebas
         }
 
         [TestMethod]
-        public void TestElCincoPorDelante()
+        public void TestCinco()
         {
             int[] entrada = new int[] { 5, 1, 2, 3, 4 };
             ordenar.Ordenar(entrada);
@@ -45,7 +45,7 @@ namespace Ordenamiento.Pruebas
         }
 
         [TestMethod]
-        public void TestNoSeComoPonerle()
+        public void TestDos()
         {
             int[] entrada = new int[] { 2, 3, 4, 5, 1 };
             ordenar.Ordenar(entrada);
@@ -61,7 +61,7 @@ namespace Ordenamiento.Pruebas
         }
 
         [TestMethod]
-        public void TestUltimo()
+        public void TestCuatro()
         {
             int[] entrada = new int[] { 1, 4, 3, 4, 2 };
             ordenar.Ordenar(entrada);
