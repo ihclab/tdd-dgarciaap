@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\tdd-dgarciaap\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.deps.json
+C:\Users\DELL\Desktop\tdd-dgarciaap\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\DELL\Desktop\tdd-dgarciaap\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.pdb
+C:\Users\DELL\Desktop\tdd-dgarciaap\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\tdd-dgarciaap\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\tdd-dgarciaap\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\tdd-dgarciaap\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfo.cs
+C:\Users\DELL\Desktop\tdd-dgarciaap\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\DELL\Desktop\tdd-dgarciaap\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.pdb
