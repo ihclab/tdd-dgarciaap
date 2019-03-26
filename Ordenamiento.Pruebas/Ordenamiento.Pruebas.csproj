@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <RootNamespace>tdd_dgarciaap</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -14,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ordenamiento\ordenamiento.csproj" />
+    <ProjectReference Include="..\Ordenamiento\Ordenamiento.csproj" />
   </ItemGroup>
 
 </Project>

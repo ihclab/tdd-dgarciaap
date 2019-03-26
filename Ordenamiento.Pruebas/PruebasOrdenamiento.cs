@@ -1,9 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace tdd_dgarciaap
+namespace Ordenamiento.Pruebas
 {
     [TestClass]
-    public class PruebasOrdenamiento
+    public class UnitTest1
     {
         [TestMethod]
         public void TestMethod1()

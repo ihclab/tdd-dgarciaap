@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ordenamiento
-{
+namespace Ordenamiento {
     public class Burbuja {
-        public void ordenar(int[] arr) {
+        public void Ordenar(int[] arr) {
             throw new NotImplementedException("Crear los casos de prueba");
         }
     }

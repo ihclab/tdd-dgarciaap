@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\tdd-dgarciaap\\ordenamiento\\ordenamiento.csproj",
-      "projectName": "ordenamiento",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\tdd-dgarciaap\\ordenamiento\\ordenamiento.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\tdd-dgarciaap\\Ordenamiento\\Ordenamiento.csproj",
+      "projectName": "Ordenamiento",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\tdd-dgarciaap\\Ordenamiento\\Ordenamiento.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\tdd-dgarciaap\\ordenamiento\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\tdd-dgarciaap\\Ordenamiento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
