@@ -5822,28 +5822,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/psantana/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/psantana/Desktop/tdd-pecesama/Ordenamiento.Pruebas/Ordenamiento.Pruebas.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\tdd-dgarciaap\\Ordenamiento.Pruebas\\Ordenamiento.Pruebas.csproj",
       "projectName": "Ordenamiento.Pruebas",
-      "projectPath": "/Users/psantana/Desktop/tdd-pecesama/Ordenamiento.Pruebas/Ordenamiento.Pruebas.csproj",
-      "packagesPath": "/Users/psantana/.nuget/packages/",
-      "outputPath": "/Users/psantana/Desktop/tdd-pecesama/Ordenamiento.Pruebas/obj/",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\tdd-dgarciaap\\Ordenamiento.Pruebas\\Ordenamiento.Pruebas.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\tdd-dgarciaap\\Ordenamiento.Pruebas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/psantana/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
